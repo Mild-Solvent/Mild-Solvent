@@ -1,4 +1,4 @@
-# Hi there 👋 I am Mild-Solvent!
+# Hi I̶̟̟͈̙͎̼͉̽̎̓͐̇͒̕͝ ̸̘̯̱͎̣͕̈́̈́̊͐͒̓̑̾̑̚͝͝ͅḁ̶̧̫͉͚͉̖̖̩͜͝ḿ̵̯͈͍͇̤̺͎̋̈́͛̉̂͋̓̽͜ ̷̡̧̬̫͓͓̰̻͍̻̳̹̽̏̌̇́̀͐̇̒̐̾̔͘͝Ḿ̵̹̲̝̝̮̖̭̋̓͊̔͐̐̕̕į̵̥̠͚̜̺̤̙̣͓̖̖̭̤͌̍̒͆̌̍̂̀̑̄͝͝l̶͔̞͚͓̝̞̔̄̒̿̇̃̆̓̉̑͑̔͘͜͝͠d̵̞͍͖͓͙͎̝͍̦̙̭͇̀̽͒̿͗̚͝͝ͅ-̴̫̦̬͚̼̤͙̈̔̔̐͑̉̐͌̍̕͝S̷̛̙͋́̈́͋̋̈̉̀̔͊ǫ̶̫̲̬̦̠̮̍̏̔ͅl̵̨̧̛͍̮̞̘̍̅̍̈́̽̇̂̃͊̀͘̚͠v̸͎͖̘̞̿̍̃ĕ̵̢̨̛͔̬̠̳͕̈́̈́̎͑̌́͌ń̶̛̮̮̮̳̱̖̲̯̺̈́͜t̶̨͙̟͔͓̟͖̣͖͕͕̮͕͛̀̏̀͘͜!̵͎̖̙̲̝̣̔͒͠
 
 I'm a passionate Software Engineer and Developer with a knack for problem-solving. Currently based in the EU, I specialize in building full-stack applications, AI solutions, and secure systems using cutting-edge technologies.
 
