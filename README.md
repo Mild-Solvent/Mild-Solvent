@@ -46,7 +46,7 @@ I'm a passionate Software Engineer and Developer with a knack for problem-solvin
 ![Generative AI](https://img.shields.io/badge/-Generative_AI-black?style=flat-square&logo=ai)
 
 ## 🎯 Competitive Programming & Hackathons:
-- **Middlesex University** – Active in Competitive Programming.
+- **Middlesex University**
 - 🏆 **Hackathons**:
   - ETH London Bounty Winner
   - ETH Bratislava Overall Winner
@@ -57,5 +57,5 @@ I'm a passionate Software Engineer and Developer with a knack for problem-solvin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mild-Solvent&layout=compact&theme=radical)
 
 ## 🎮 Fun Fact:
-- When I’m not coding, I’m probably flying virtual skies in **War Thunder** or hunting survivors in **Dead by Daylight**.
+- When I’m not coding, I’m probably flying skies in **War Thunder** or giving depression to survivors in **Dead by Daylight**.
 - I also love building games in **UE5** and **GDevelop**!
