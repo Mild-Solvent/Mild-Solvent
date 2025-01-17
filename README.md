@@ -52,10 +52,6 @@ I'm a passionate Software Engineer and Developer with a knack for problem-solvin
   - ETH Bratislava Overall Winner
   - Encode AI Hackathon Bounty Winner
 
-## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mild-Solvent&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mild-Solvent&layout=compact&theme=radical)
-
 ## 🎮 Fun Fact:
 - When I’m not coding, I’m probably flying skies in **War Thunder** or giving depression to survivors in **Dead by Daylight**.
 - I also love building games in **UE5**!
