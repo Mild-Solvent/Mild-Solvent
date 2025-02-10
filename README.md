@@ -20,12 +20,16 @@ I'm a passionate Software Engineer and Developer with a knack for problem-solvin
 ### 💻 Programming Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Dr.Racket](https://img.shields.io/badge/-Dr.Racket-black?style=flat-square&logo=racket)
 
 ### 🌐 Frontend & Backend:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
@@ -33,8 +37,12 @@ I'm a passionate Software Engineer and Developer with a knack for problem-solvin
 
 ### ⚙️ DevOps & Database:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+
+### 🔧 Embedded & IoT:
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 
 ### 🔐 Cybersecurity:
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-black?style=flat-square&logo=linux)
@@ -44,6 +52,7 @@ I'm a passionate Software Engineer and Developer with a knack for problem-solvin
 ### 🧠 AI & Machine Learning:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
 ![Generative AI](https://img.shields.io/badge/-Generative_AI-black?style=flat-square&logo=ai)
+![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat-square)
 
 ## 🎯 Competitive Programming & Hackathons:
 - **Middlesex University**
