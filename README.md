@@ -53,5 +53,4 @@ I'm a passionate Software Engineer and Developer with a knack for problem-solvin
   - Encode AI Hackathon Bounty Winner
 
 ## 🎮 Fun Fact:
-- When I’m not coding, I’m probably flying skies in **War Thunder** or giving depression to survivors in **Dead by Daylight**.
-- I also love building games in **UE5**!
+- I love building games in **UE5**!
