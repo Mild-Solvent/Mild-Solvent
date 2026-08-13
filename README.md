@@ -2,6 +2,9 @@
 
 I'm a passionate Software Engineer and Developer with a knack for problem-solving. Currently based in the EU, I specialize in building full-stack applications, AI solutions, and secure systems using cutting-edge technologies.
 
+## 🕹️ Interactive CV
+> **[▶ Play my pixel CV](https://mild-solvent.github.io/CV/)** — an animated, game-style CV where each project level links to the real site. Built as a single self-contained HTML file ([source](https://github.com/Mild-Solvent/CV)).
+
 ## 🔭 Current Projects
 - 🚀 Working on **Solventry** – A platform connecting workers and customers with real-time messaging and offers.
 - 🌐 Developing **Next.js** apps deployed on **Vercel**.
